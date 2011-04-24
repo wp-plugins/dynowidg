@@ -18,7 +18,7 @@ This plugin will allow you to dynamically add any piece of content to the sideba
 
 Please submit any bugs or suggested improvements to <a href=\"https://github.com/bmsterling/DynoWidg/issues\">https://github.com/bmsterling/DynoWidg/issues</a>
 
-Need this plugin customize or need a plugin create, contact me via my contact form at <a href=\"http://kenzomedia.com\">http://kenzomedia.com</a>
+Need this plugin customized or need a plugin created, contact me via my contact form at <a href=\"http://kenzomedia.com\">http://kenzomedia.com</a>
 
 Also available through twitter, @bmsterling
 
@@ -34,3 +34,21 @@ Also available through twitter, @bmsterling
 == Frequently Asked Questions ==
 
 Currently No FAQs but feel free to contact me with any questions you do have.
+
+
+== Credits ==
+
+Copyright 2011  Benjamin Sterling
+
+This program is free software; you can redistribute it and/or modify
+it under the terms of the GNU General Public License, version 2, as 
+published by the Free Software Foundation.
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with this program; if not, write to the Free Software
+Foundation, Inc., 51 Franklin St, Fifth Floor, Boston, MA  02110-1301  USA
