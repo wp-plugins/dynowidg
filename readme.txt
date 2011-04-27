@@ -3,8 +3,8 @@ Contributors: bmsterling
 Donate link:http://benjaminsterling.com/donations/
 Tags: dynamic, widget, content type, logic
 Requires at least: 3.0
-Tested up to: 3.1.1
-Stable tag: 0.1.1
+Tested up to: 3.1.2
+Stable tag: 0.1.2
 
 This plugin will allow you to dynamically add any piece of content to the sidebar as well as give you the ability to limit what pages/sections based on Wordpress' conditionals and/or selecting specific areas to limit.
 
@@ -22,6 +22,11 @@ Need this plugin customized or need a plugin created, contact me via my contact 
 
 Also available through twitter, @bmsterling
 
+= Quick Note =
+
+I am thinking that the logic section of the plugin is a bit much and most likely not needed by default so the next minor release I most likely will be removing that functionality and add it to it's own plugin.
+
+
 == Installation ==
 
 1. Unzip into your `/wp-content/plugins/` directory. If you're uploading it make sure to upload the top-level folder. Don't just upload all the php files and put them in `/wp-content/plugins/`.
@@ -34,6 +39,11 @@ Also available through twitter, @bmsterling
 == Frequently Asked Questions ==
 
 Currently No FAQs but feel free to contact me with any questions you do have.
+
+== Changelog ==
+
+= 0.1.2 =
+Fixed an issue where nav_menu_item were getting in; Added the ID for the content into the drop down in hopes of easier reading.
 
 
 == Credits ==
