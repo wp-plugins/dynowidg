@@ -76,6 +76,10 @@ class DynoWidg_Widget extends WP_Widget {
 		DynoWidg_get_data();
 		
 		$instance = $old_instance;
+		
+		if( empty( $new_instance['showheader'] ) ){
+			$new_instance['showheader'] = '0';
+		}
 
 		$new_instance = wp_parse_args(
 						(array) $new_instance, 

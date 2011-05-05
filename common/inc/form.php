@@ -22,7 +22,7 @@
 			name="<?php echo $this->get_field_name( 'showheader' ); ?>"
 			type="checkbox"
 			value="1" 
-			<?php echo ($instance['showheader']==1) ?  ' checked="checked" ':''; ?> />
+			<?php echo ($instance['showheader']=='1') ?  ' checked="checked" ':''; ?> />
 	</p>
 
 	<p>
